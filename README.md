@@ -1,5 +1,5 @@
 
-## 👋 Hi, I’m kA
+## Hi, I’m kA
 - Economist at Norway’s wealthiest municipality 
 - MSc Business Analytics University of Inland Norway
 - Python(course) University of South-Eastern Norway
@@ -17,7 +17,7 @@
 ---
 
 ###  Currently working with
-- Python (Pandas, NumPy, Matplotlib)
+- Python (Pandas, NumPy, Seaborn)
 - R: (tidyverse,dplyr , ggplot2 , readr, fpp3)
 - Power BI & SQL  
 - Business Analytics & Reporting  
