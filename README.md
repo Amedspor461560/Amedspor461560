@@ -7,7 +7,7 @@
 
 ---
 
-### 👀 Interests
+###  Interests
 - Business Analytics & Data Science  
 - Process improvement & optimization  
 - Financial analysis & public sector analytics  
@@ -15,7 +15,7 @@
 - Snowboarding
 ---
 
-### 🌱 Currently working with
+###  Currently working with
 - Python (Pandas, NumPy, Matplotlib)
 - R: (tidyverse,dplyr , ggplot2 , readr, fpp3)
 - Power BI & SQL  
@@ -24,7 +24,7 @@
 
 ---
 
-### 💡 Projects & Focus
+###  Projects & Focus
 - Analytics projects for finance & public sector  
 - Data-driven decision support  
 - Automation & efficiency improvements  
