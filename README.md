@@ -1,10 +1,9 @@
 
 ## 👋 Hi, I’m kA
-
--Economist at Norway’s wealthiest municipality 
--MSc Business Analytics University of Inland Norway
--Python(emne) University of South-Eastern Norway
--Based in Norway 🇳🇴
+- Economist at Norway’s wealthiest municipality 
+- MSc Business Analytics University of Inland Norway
+- Python(course) University of South-Eastern Norway
+- Based in Norway 🇳🇴 
 
 ---
 
