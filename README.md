@@ -3,7 +3,8 @@
 - Economist at Norway’s wealthiest municipality 
 - MSc Business Analytics University of Inland Norway
 - Python(course) University of South-Eastern Norway
-- Based in Norway 🇳🇴 
+- IR209(course) International Political Economy London School of Economics and Political Science
+- Based in Norway 🇳🇴
 
 ---
 
