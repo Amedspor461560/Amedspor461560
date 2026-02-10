@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**Amedspor461560/Amedspor461560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I’m kA
 
-Here are some ideas to get you started:
+Economist at Norway’s wealthiest municipality 
+MSc Business Analytics University of Inland Norway
+Python(emne) University of South-Eastern Norway
+Based in Norway 🇳🇴
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👀 Interests
+- Business Analytics & Data Science  
+- Process improvement & optimization  
+- Financial analysis & public sector analytics  
+- Turning messy data into clear insights  
+
+---
+
+### 🌱 Currently working with
+- Python (Pandas, NumPy, Matplotlib)
+- R: (tidyverse,dplyr , ggplot2 , readr, fpp3)
+- Power BI & SQL  
+- Business Analytics & Reporting  
+- Budgeting, forecasting & internal control  
+
+---
+
+### 💡 Projects & Focus
+- Analytics projects for finance & public sector  
+- Data-driven decision support  
+- Automation & efficiency improvements  
+- Learning ML & predictive analytics step by step  
+
