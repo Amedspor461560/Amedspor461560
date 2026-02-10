@@ -12,7 +12,7 @@
 - Process improvement & optimization  
 - Financial analysis & public sector analytics  
 - Turning messy data into clear insights  
-
+- Snowboarding
 ---
 
 ### 🌱 Currently working with
