@@ -1,10 +1,6 @@
 
 ## Hi, I’m kA
-- Economist at Norway’s wealthiest municipality 
-- MSc Business Analytics University of Inland Norway(INN)
-- Python(course) University of South-Eastern Norway(USN)
-- IR209(course) International Political Economy London School of Economics and Political Science(LSE)
-- Based in Norway 🇳🇴
+
 
 ---
 
